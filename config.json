@@ -1,16 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Tim Rollings",
+  "name": "Tim Rollings",
+  "ascii": "Tim Rollings",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "timatom",
+    "linkedin": "timothyrollings"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "tim.rollings@datathat.net",
+  "ps1_hostname": "timsterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/timatom",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
