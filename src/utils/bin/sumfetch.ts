@@ -18,7 +18,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
      @@@                        @@@         -----------
         @@@                  @@@ @@          DONATE 
          @|  @@@@@@@@@@@@@@@@   @@           <u><a href="${config.donate_urls.ko_fi}" target="_blank">${config.donate_urls.ko_fi}</a></u>
-         @|                      @@          <u><a href="${config.donate_urls.patreon}" target="_blank">${config.donate_urls.patreon}</a></u>
+         @|                      @@          <u><a href="${config.donate_urls.stripe}" target="_blank">${config.donate_urls.stripe}</a></u>
 
 `;
   } else {
@@ -37,7 +37,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             DONATE 
         ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                <u><a href="${config.donate_urls.ko_fi}" target="_blank">${config.donate_urls.ko_fi}</a></u>
-            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                   <u><a href="${config.donate_urls.patreon}" target="_blank">${config.donate_urls.patreon}</a></u>
+            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                   <u><a href="${config.donate_urls.stripe}" target="_blank">${config.donate_urls.stripe}</a></u>
 
 `;
   }
