@@ -27,13 +27,22 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
+      "background": "#1E1E1E",
       "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
+      "yellow": "#9CDCFE",
+      "green": "#49B7A0",
       "gray": "#88C0D0",
-      "blue": "#EBCB8B",
+      "blue": "#559BD4",
       "red": "#BF616A"
+    },
+    "old_dark": {
+      "background": "#282828",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#928374",
+      "blue": "#458588",
+      "red": "#CA2124"
     }
   }
 }
