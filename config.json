@@ -1,5 +1,5 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/timatom/timatom/main/README.md",
   "title": "Tim Rollings",
   "name": "Tim Rollings",
   "ascii": "Tim Rollings",
@@ -14,6 +14,7 @@
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "ko_fi": "https://ko-fi.com/timrollings",
+    "github_sponsors": "https://github.com/sponsors/timatom",
     "stripe": "https://donate.stripe.com/6oE5m89G0eQceJyaEE"
   },
   "colors": {

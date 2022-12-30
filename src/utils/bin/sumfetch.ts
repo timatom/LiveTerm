@@ -36,8 +36,8 @@ const sumfetch = async (args: string[]): Promise<string> => {
    ▓▓      ▐▓▓    ▓▓    ▐▓▓     ▓▓          -----------
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           SUPPORT MY COFFEE ADDICTION 
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             <u><a href="${config.donate_urls.ko_fi}" target="_blank">${config.donate_urls.ko_fi}</a></u>
-        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                <u><a href="${config.donate_urls.stripe}" target="_blank">${config.donate_urls.stripe}</a></u>
-            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀
+        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                <u><a href="${config.donate_urls.github_sponsors}" target="_blank">${config.donate_urls.github_sponsors}</a></u>
+            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                   <u><a href="${config.donate_urls.stripe}" target="_blank">${config.donate_urls.stripe}</a></u>
 
 `;
   }
